@@ -542,3 +542,6 @@
 - [README](storyboard-anchor-policy-evidence/README.md)
 - [c0-video-wait-plan](sweep-evidence/c0-video-wait-plan.md)
 - [trace](trace-log-evidence/trace.md)
+- [2026-09-25-canvas-ux-batch](2026-09-25-canvas-ux-batch.md)
+- [2026-09-26-generation-variant-single-owner](2026-09-26-generation-variant-single-owner.md)
+- [2026-09-26-open-fit-on-reopen](2026-09-26-open-fit-on-reopen.md)
